@@ -9,6 +9,7 @@ Feel free to contribute by committing new links.
 - [Hosts](#hosts)
 - [Useful Websites](#useful-websites)
 - [Game Trainers](#game-trainers)
+- [DNS Servers](#dns-servers)
 - [Linux](#linux)
 - [Tutorials](#tutorials)
 
@@ -25,6 +26,10 @@ Feel free to contribute by committing new links.
 
 ## Game Trainers
 * [PS4Trainer](http://ps4trainer.com/Trainer/) – A place that lists NFOs from Scene Releases
+
+## DNS Servers to block Sony from updates
+* DNS 1: 165.227.83.145
+* DNS 2: 192.241.221.79
 
 ## Linux
 * [How to Install Gentoo on PS4 9.00 Jailbreak](https://www.youtube.com/watch?v=_iA3strJjVE)
