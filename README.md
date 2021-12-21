@@ -8,6 +8,7 @@ Feel free to contribute by committing new links.
 - [Homebrew](#homebrew)
 - [Hosts](#hosts)
 - [Useful Websites](#useful-websites)
+- [Game Trainers](#game-trainers)
 - [Linux](#linux)
 - [Tutorials](#tutorials)
 
@@ -21,6 +22,9 @@ Feel free to contribute by committing new links.
 ## Useful Websites
 * [PS4 NFOs](https://predb.me/?cat=games-playstation) – A place that lists NFOs from Scene Releases
 * [RomNews](http://rom-news.org/ps4) - Another great site for the latest scene releases
+
+## Game Trainers
+* [PS4Trainer](http://ps4trainer.com/Trainer/) – A place that lists NFOs from Scene Releases
 
 ## Linux
 * [How to Install Gentoo on PS4 9.00 Jailbreak](https://www.youtube.com/watch?v=_iA3strJjVE)
