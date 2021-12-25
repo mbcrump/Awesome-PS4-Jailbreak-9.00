@@ -11,6 +11,7 @@ Feel free to contribute by committing new links.
 - [Game Trainers](#game-trainers)
 - [DNS Servers](#dns-servers)
 - [Linux](#linux)
+- [Templates](#templates)
 - [Tutorials](#tutorials)
 
 ## Homebrew
@@ -37,6 +38,9 @@ Feel free to contribute by committing new links.
 ## Linux
 * [How to Install Gentoo on PS4 9.00 Jailbreak](https://www.youtube.com/watch?v=_iA3strJjVE)
 * [How to Install Linux on PS4 9.00 Jailbreak](https://www.youtube.com/watch?v=onVbR8pCyYY)
+
+## Templates
+* [PSTools/PS4-Skeleton: PS4 Unity Skeleton](https://github.com/PSTools/PS4-Skeleton)
 
 ## Tutorials
 - [Run PS4 9.00 Jailbreak Payloads without a HOST](https://www.youtube.com/watch?v=ftA5oaI35R0)
