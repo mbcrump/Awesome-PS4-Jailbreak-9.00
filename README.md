@@ -30,8 +30,9 @@ Feel free to contribute by committing new links.
 * [PS4Trainer](http://ps4trainer.com/Trainer/) – A place that lists NFOs from Scene Releases
 
 ## DNS Servers to block Sony from updates
-* DNS 1: 165.227.83.145
-* DNS 2: 192.241.221.79
+* DNS 1: 165.227.83.145 - Enter on your PS4
+* DNS 2: 192.241.221.79 - Enter on your PS4
+* [DNS Entries to block on your router](https://github.com/phoanglong/ps4-dns-block/blob/main/ps4-block)
 
 ## Linux
 * [How to Install Gentoo on PS4 9.00 Jailbreak](https://www.youtube.com/watch?v=_iA3strJjVE)
