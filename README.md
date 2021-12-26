@@ -18,6 +18,7 @@ Feel free to contribute by committing new links.
 * [Latest GoldHen Releases](https://github.com/GoldHEN/GoldHEN/releases) - The source for the latest GoldHEN.
 * [Orbis Toolkit](https://github.com/OSM-Made/Orbis-Toolbox/releases) - Homebrew for Developers to test games/apps but useful for all
 * [Orbis FTP](https://github.com/OSM-Made/OrbisFTP/releases) - FTP that allows RW of some special folders
+* [Payloads with Icons for Payload Guest](https://github.com/upal212/Payload-Guest-With-Icons)
 
 ## Hosts
 * [Karo219](http://karo218.ir/) - My favorite host
