@@ -5,6 +5,7 @@ A collection of the best PS4 9.00 Jailbreak links
 
 Feel free to contribute by committing new links.
 
+- [Main Exploits](main-#exploits)
 - [Homebrew](#homebrew)
 - [Hosts](#hosts)
 - [Useful Websites](#useful-websites)
@@ -15,8 +16,11 @@ Feel free to contribute by committing new links.
 - [Tutorials](#tutorials)
 - [PS5 Conntent](#ps5-content)
 
-## Homebrew
+## Main Exploits
 * [Latest GoldHen Releases](https://github.com/GoldHEN/GoldHEN/releases) - The source for the latest GoldHEN.
+* [ChendoChap/pOOBs4](https://github.com/ChendoChap/pOOBs4) - `exfathax_img` source.
+
+## Homebrew
 * [Orbis Toolkit](https://github.com/OSM-Made/Orbis-Toolbox/releases) - Homebrew for Developers to test games/apps but useful for all
 * [Orbis FTP](https://github.com/OSM-Made/OrbisFTP/releases) - FTP that allows RW of some special folders
 * [Payloads with Icons for Payload Guest](https://github.com/upal212/Payload-Guest-With-Icons)
