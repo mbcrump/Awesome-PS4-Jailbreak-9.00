@@ -24,6 +24,7 @@ Feel free to contribute by committing new links.
 * [Orbis Toolkit](https://github.com/OSM-Made/Orbis-Toolbox/releases) - Homebrew for Developers to test games/apps but useful for all
 * [Orbis FTP](https://github.com/OSM-Made/OrbisFTP/releases) - FTP that allows RW of some special folders
 * [Payloads with Icons for Payload Guest](https://github.com/upal212/Payload-Guest-With-Icons)
+* [orbisRPC](https://github.com/SirHumza/orbisRPC) - Discord Rich Presence for jailbroken PS4 (GoldHEN): your game, cover art and play timer on Discord with no PC needed
 
 ## Hosts
 * [Karo219](http://karo218.ir/) - My favorite host
